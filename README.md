@@ -1,0 +1,1 @@
+# lacak-kartu-operator-by-azy
